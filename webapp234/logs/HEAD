@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 730d09b29a66e8801bfbc41c38ee100d7f3b998a Mohan Pothula <mohan@fractionalservices.co> 1759221626 +0800	commit (initial): Initial app and deployment workflow
+730d09b29a66e8801bfbc41c38ee100d7f3b998a ee08a33ed2a565e4a01655285c8260cc7b656aea Mohan Pothula <mohan@fractionalservices.co> 1759222829 +0800	commit: Fix workflow trigger
+ee08a33ed2a565e4a01655285c8260cc7b656aea f0b6d01964e5e7d59f6bf50cdf02718e26c3a6c7 Mohan Pothula <mohan@fractionalservices.co> 1759223082 +0800	commit: Add correctly placed deployment workflow
+f0b6d01964e5e7d59f6bf50cdf02718e26c3a6c7 c55bc70324700c2aa927781b7895ff14fca3d662 Mohan Pothula <mohan@fractionalservices.co> 1759224270 +0800	commit: Expand app with routes, templates, and static files
+c55bc70324700c2aa927781b7895ff14fca3d662 e101a4b222d63b54735a512500208227ce3563fe Mohan Pothula <mohan@fractionalservices.co> 1759224492 +0800	commit: Expand app with routes, templates, and static files
